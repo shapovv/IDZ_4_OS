@@ -1,0 +1,3 @@
+/Users/shapovv/CLionProjects/IDZ_4_OS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shapovv/CLionProjects/IDZ_4_OS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shapovv/CLionProjects/IDZ_4_OS/cmake-build-debug/CMakeFiles/IDZ_4_OS.dir
